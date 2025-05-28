@@ -15,7 +15,8 @@ landscape:
             twitter: https://twitter.com/airshipproject
             crunchbase: https://www.crunchbase.com/organization/open-infrastructure-foundation
           - item:
-            name: Akri
+            name: Akri2
+        
             homepage_url: https://docs.akri.sh
             project: sandbox
             repo_url: https://github.com/project-akri/akri
