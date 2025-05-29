@@ -2,7 +2,7 @@
 
 landscape:
   - category:
-    name: Provisioning
+    name: Provision
     subcategories:
       - subcategory:
         name: Automation & Config
