@@ -19742,3 +19742,6 @@ landscape:
           repo_url: https://github.com/opea-project
           logo: ./opea-stacked-color.svg
           unnamed_organization: true
+          
+yarn install
+yarn start
