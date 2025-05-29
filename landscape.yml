@@ -5,7 +5,7 @@ landscape:
     name: Provisioning
     subcategories:
       - subcategory:
-        name: Automation & Configuration
+        name: Automation & Config
         items:
           - item:
             name: Airship
